@@ -36,7 +36,7 @@ We'll be working with the following HTML (which is also in `html/index.html` for
 
 This HTML renders as a white page with black text displaying `"HEY HEY HEY HEY HEY"` in the top left corner of the page.
 
-Let's say we want to change the font color to blue and the background color of the `p` tag to gray using JavaScript. We could do that with the follow JavaScript:
+Let's say we want to change the font color to blue and the background color of the `p` tag to gray using JavaScript. We could do that with the following JavaScript:
 
 ```js
 document.getElementById("hey").style.color = "blue";
