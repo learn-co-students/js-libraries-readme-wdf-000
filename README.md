@@ -67,7 +67,7 @@ This need for different JavaScript code for different browsers can get very mess
 
 jQuery was created to solve this problem of needing different lines of code for different browsers. If you include the jQuery library in your code, you can write one single line of code that handles each browser on it's own. AMAZING!
 
-jQuery provides us with immense convenience methods that make our jobs as developers much easier, especially when dealing with AJAX and API calls. We can write significantly fewer lines of code and still achieve the same effect. jQuery is also an open source library and has a tremendous community around it.  There are many many jQuery plugins (like Ruby gems) which provide additional functionality, and allow us to build complex applications very quickly.
+jQuery provides us with immense convenience methods that make our jobs as developers much easier, especially when dealing with AJAX and API calls. We can write significantly fewer lines of code and still achieve the same effect. jQuery is also an open source library and has a tremendous community around it. At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) - crazy! There are many many jQuery plugins (like Ruby gems) which provide additional functionality, and allow us to build complex applications very quickly.
 
 
 
