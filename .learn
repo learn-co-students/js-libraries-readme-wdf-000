@@ -1,6 +1,7 @@
 tags:
-  - a tag
+  - jquery
+  -libraries
 languages:
-  - a language
+  - jQuery
 resources: 
   - 0
