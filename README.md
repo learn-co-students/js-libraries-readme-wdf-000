@@ -15,7 +15,7 @@ One of the most widely used JavaScript libraries is **jQuery**.
 
 ## The Problem with JavaScript
 
-As you've learned from CSS, not all browsers are created equal. There are properties specific to each browser, and code you have to write for designs and features to be cross-browser compatible. Even though things have improved drastically from the earlier versions of browsers (Internet Explorer 6, etc.), because of the core browser standers, we still have to pay attention to browser differences.
+As you've learned from CSS, not all browsers are created equal. There are properties specific to each browser, and code you have to write for designs and features to be cross-browser compatible. Even though things have improved drastically from the earlier versions of browsers (Internet Explorer 6, etc.), because of the core browser standards, we still have to pay attention to browser differences.
 
 JavaScript has evolved in much the same way as CSS. Even though things have improved considerably, there are definitely differences in the way JavaScript must be handled across browsers.
 
