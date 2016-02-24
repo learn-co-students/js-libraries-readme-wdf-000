@@ -7,7 +7,7 @@
 
 ## Intro 
 
-A JavaScript library is prewritten JavaScript code that allows for easy integration to streamline your own code base
+A JavaScript library is prewritten JavaScript code that allows for easy integration to streamline your own code base.
 
 There are many JavaScript libraries designed for different purposes. Jasmine is the library we use for writing tests. D3.js is a library for data visualization, Bootstrap has a JavaScript library for adding animations and effects to our sites, Node.js is a library for writing server side JavaScript.
 
@@ -69,3 +69,5 @@ jQuery was created to solve this problem of needing different lines of code for 
 jQuery provides us with immense convenience methods that make our jobs as developers much easier, especially when dealing with AJAX and API calls. We can write significantly fewer lines of code and still achieve the same effect. jQuery is also an open source library and has a tremendous community around it. At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) - crazy! There are many many jQuery plugins (like Ruby gems) which provide additional functionality, and allow us to build complex applications very quickly.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme' title='JS Libraries'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
