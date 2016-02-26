@@ -90,7 +90,7 @@ change.
 
 jQuery was created to solve this problem of needing different lines of code for
 different browsers. If you include the jQuery library in your code, you can
-write one single line of code that handles each browser on it's own. AMAZING!
+write one single line of code that handles each browser on its own. AMAZING!
 
 jQuery provides us with immense convenience methods that make our jobs as
 developers much easier, especially when dealing with AJAX and API calls. We can
