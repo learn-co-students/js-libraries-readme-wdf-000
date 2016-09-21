@@ -2,7 +2,7 @@
 
 ## Objectives
 + Explain what a JS library is
-+ Explain why jQUery was invented
++ Explain why jQuery was invented
 + Include jQuery in an HTML page
 
 ## Intro
@@ -66,8 +66,6 @@ This need for different JavaScript code for different browsers can get very mess
 
 jQuery was created to solve this problem of needing different lines of code for different browsers. If you include the jQuery library in your code, you can write one single line of code that handles each browser on its own. AMAZING!
 
-jQuery provides us with immense convenience methods that make our jobs as developers much easier, especially when dealing with AJAX and API calls. We can write significantly fewer lines of code and still achieve the same effect. jQuery is also an open source library and has a tremendous community around it. At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) - crazy! There are many many jQuery plugins that provide additional functionality and that allow us to build complex applications very quickly.
+jQuery provides us with immense convenience methods that make our jobs as developers much easier, especially when dealing with AJAX and API calls. We can write significantly fewer lines of code and still achieve the same effect. jQuery is also an open source library and has a tremendous community around it. At the time of this writing, over [78% of the top million sites on the web use jQuery](http://trends.builtwith.com/javascript/jQuery) — crazy! There are many, many jQuery plugins that provide additional functionality and that allow us to build complex applications very quickly.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme' title='JS Libraries'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-libraries-readme'>JS Libraries</a> on Learn.co and start learning to code for free.</p>
