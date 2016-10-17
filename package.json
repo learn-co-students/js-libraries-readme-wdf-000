@@ -1,0 +1,33 @@
+{
+  "name": "listening-to-nodes",
+  "version": "0.1.0",
+  "description": "JS Libraries",
+  "engines": {
+    "node": "6.x",
+    "npm": "3.x"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learn-co-students/js-libraries-readme-wdf-000.git"
+  },
+  "keywords": [
+    "javascript",
+    "flatiron",
+    "learn"
+  ],
+  "author": "pletcher",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/js-libraries-readme-wdf-000/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/js-libraries-readme-wdf-000#readme",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "chai": "^3.5.0",
+    "jsdom": "^9.2.1",
+    "mocha": "^2.5.3",
+    "mocha-jsdom": "^1.1.0",
+    "mocha-multi": "^0.9.0"
+  }
+}
