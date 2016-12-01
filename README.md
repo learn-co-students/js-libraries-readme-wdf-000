@@ -13,7 +13,7 @@ There are many JavaScript libraries designed for different purposes. [Jasmine](h
 
 One of the most widely used JavaScript libraries is [**jQuery**](https://jquery.org/).
 
-## The Problem with JavaScript
+## The Problem with JavaScript  
 
 As you've learned from CSS, not all browsers are created equal. There are properties specific to each browser, and code you have to write so that designs and features are cross-browser compatible. Even though things have improved drastically from the earlier versions of browsers (Internet Explorer 6, etc.), we still have to pay attention to browser differences.
 
